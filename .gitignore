@@ -1,0 +1,9 @@
+.pio/
+host_test/test_core
+host_test/sim_bench
+host_test/sim_sleep
+host_test/sim_nosens
+host_test/sim_flash/
+host_test/*.log
+backend_fake/received/
+include/secrets.h
